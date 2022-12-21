@@ -1,0 +1,1 @@
+# Project for Inteligencja Obliczeniowa
