@@ -30,4 +30,4 @@
 <img width="457" alt="image" src="https://user-images.githubusercontent.com/58554458/209805068-104feb1e-3c4c-4893-8702-56c1ed521775.png">
 
 
-### This is project for University of Gdańsk for Inteligencja Obliczeniowa
+### This is project for University of Gdańsk  Inteligencja Obliczeniowa
